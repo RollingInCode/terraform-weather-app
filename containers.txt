@@ -1,0 +1,6 @@
+grafana-dev-a3l1: 172.17.0.2:3100
+nodered-dev-x1w5: 172.17.0.3:1980
+influxdb-dev-9pj3: 172.17.0.4:8186
+nodered-prod-yejb: 172.17.0.2:1880
+grafana-prod-ecu4: 172.17.0.3:3000
+influxdb-prod-qqhn: 172.17.0.4:8086
